@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://github.com/latin-bubel/react-weather-app-course"
             target="_blank"
+            rel="noopener noreferrer"
           >
             open sourced
           </a>
