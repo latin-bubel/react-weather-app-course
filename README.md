@@ -1,3 +1,10 @@
+#Goals
+
+The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
