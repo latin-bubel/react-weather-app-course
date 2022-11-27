@@ -1,7 +1,6 @@
-#Goals
+# Goals
 
 The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API
-
 
 
 
