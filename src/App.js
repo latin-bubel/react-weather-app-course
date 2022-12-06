@@ -8,7 +8,15 @@ export default function App() {
         <h1>Weather App</h1>
         <Weather defaultCity="Berlin" />
         <footer>
-          This project is created by Estera Pietkiewicz and it is{" "}
+          This project is created by{" "}
+          <a
+            href="https://pl.linkedin.com/in/estera-pietkiewicz-6b7558178"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Estera Pietkiewicz
+          </a>{" "}
+          and it is{" "}
           <a
             href="https://github.com/latin-bubel/react-weather-app-course"
             target="_blank"
