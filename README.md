@@ -1,6 +1,7 @@
 # Goals
 
-The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API
+The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API.
+I have used npm animated weather icons.
 
 
 
