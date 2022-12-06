@@ -1,7 +1,8 @@
 # Goals
 
-The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API.
-I have used npm animated weather icons.
+The goal of this project was to recreated the Google Weather Component using the SheCodes Weather API.\
+I have used npm animated weather icons.\
+It is hosted on Netlify : https://helpful-sprinkles-59085e.netlify.app/
 
 
 
